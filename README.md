@@ -12,7 +12,7 @@ A curious learner blending *code* with *creativity* ✨
 ---
 
 ### 🐍 My Python Projects:
-- [basic-python-projects](https://github.com/piyusha-chopra/basic-python-projects)  
+- [basic-python-projects](https://github.com/piyusha-chopra/Python-Projects)  
   A small collection of beginner-level Python programs I built while learning the basics.
 
 ---
