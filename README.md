@@ -7,7 +7,7 @@ A curious learner blending *code* with *creativity* ✨
 
 ### 💼 Currently Working On:
 - Front-end development with HTML, CSS, and JavaScript
-- Real-life Canva + Web projects in my [piyusha-web-creations](https://github.com/piyusha-chopra/piyusha-web-creations) repo
+- Web projects in my [piyusha-web-creations](https://github.com/piyusha-chopra/piyusha-web-creations) repo
 
 ---
 
@@ -20,7 +20,7 @@ A curious learner blending *code* with *creativity* ✨
 ### 🛠 Tech Stack:
 - HTML • CSS • JavaScript  
 - Canva • GitHub • Python (Basics)  
-- Learning React soon!
+- Learning React !
 
 
 ---
