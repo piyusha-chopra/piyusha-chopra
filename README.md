@@ -1,27 +1,22 @@
 # 👋 Hi, I'm Piyusha Chopra!
 
-🎓 Engineering Student | 💻 Front-End Developer | 🎨 Canva Graphic Designer  
+🎓 Engineering Student 
 A curious learner blending *code* with *creativity* ✨
 
 ---
 
 ### Tech Stack:
 - HTML, CSS, JavaScript
-- React.js
-- Tailwind CSS
+- Node.js
+- Express.js
+- MySQL
   
 ### Projects:
-- Expense Tracker (React, Tailwind CSS)
-- Notes Application (React)
 - Weather App (JavaScript, API)
 - Amazon Clone (HTML, CSS)
+- Campus Placement Portal
 
-### Currently Working On:
-- Data Structures and Algorithms
-- Front-end development
 
-### Connect with me:
-- Portfolio: [https://portfolio-website-ten-rho-67.vercel.app/]
 
 ---
 
